@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/custom">
+        <file>logos/logo.png</file>
+        <file>icons/right.png</file>
+        <file>icons/wrong.png</file>
+        <file>icons/close.png</file>
+        <file>icons/minimize.png</file>
+        <file>icons/maximize.png</file>
+        <file>icons/about.png</file>
+        <file>icons/add.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/export.png</file>
+        <file>icons/hidepassword.png</file>
+        <file>icons/home.png</file>
+        <file>icons/import.png</file>
+        <file>icons/keyboard.png</file>
+        <file>icons/loading.png</file>
+        <file>icons/manager.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/save.png</file>
+        <file>icons/search.png</file>
+        <file>icons/showpassword.png</file>
+        <file>icons/sticktop.png</file>
+        <file>icons/portrait.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/more.png</file>
+        <file>icons/turnleft.png</file>
+        <file>icons/turnright.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/critical.png</file>
+        <file>icons/info.png</file>
+        <file>icons/question.png</file>
+        <file>icons/warning.png</file>
+        <file>icons/lock.png</file>
+        <file>icons/fail.png</file>
+        <file>icons/success.png</file>
+        <file>icons/advice.png</file>
+        <file>icons/file.png</file>
+        <file>icons/log.png</file>
+        <file>icons/secure.png</file>
+        <file>icons/up.png</file>
+        <file>icons/down.png</file>
+        <file>icons/up-clicked.png</file>
+        <file>icons/down-clicked.png</file>
+        <file>icons/checked.png</file>
+        <file>icons/unchecked.png</file>
+        <file>icons/checked-hover.png</file>
+        <file>icons/unchecked-hover.png</file>
+        <file>fonts/fa-brands-400.ttf</file>
+        <file>fonts/fa-regular-400.ttf</file>
+        <file>fonts/fa-solid-900.ttf</file>
+        <file>fonts/fa-v4compatibility.ttf</file>
+        <file>fonts/fontawesome-webfont.ttf</file>
+        <file>fonts/Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>fonts/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>fonts/Font Awesome 5 Free-Solid-900.otf</file>
+        <file>fonts/fa-regular.ttf</file>
+        <file>icons/restore.png</file>
+        <file>icons/indeterminate.png</file>
+        <file>icons/indeterminate-hover.png</file>
+        <file>icons/radio.png</file>
+        <file>icons/radio-hover.png</file>
+        <file>icons/radio-unchecked.png</file>
+        <file>icons/radio-unchecked-hover.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>custom.qss</file>
+    </qresource>
+</RCC>

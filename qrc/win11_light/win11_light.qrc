@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/ToggleSwitch">
+        <file>icons/ToggleSwitchDisabled.png</file>
+        <file>icons/ToggleSwitchOn.png</file>
+        <file>icons/ToggleSwitchOnHover.png</file>
+        <file>icons/ToggleSwitchOnPressed.png</file>
+        <file>icons/ToggleSwitchOff.png</file>
+        <file>icons/ToggleSwitchOffHover.png</file>
+        <file>icons/ToggleSwitchOffPressed.png</file>
+    </qresource>
+    <qresource prefix="/ScrollHorizontal">
+        <file>icons/ScrollLeft.png</file>
+        <file>icons/ScrollLeftHover.png</file>
+        <file>icons/ScrollLeftPressed.png</file>
+        <file>icons/ScrollRight.png</file>
+        <file>icons/ScrollRightHover.png</file>
+        <file>icons/ScrollRightPressed.png</file>
+    </qresource>
+    <qresource prefix="/ScrollVertical">
+        <file>icons/ScrollBottom.png</file>
+        <file>icons/ScrollBottomHover.png</file>
+        <file>icons/ScrollBottomPressed.png</file>
+        <file>icons/ScrollTop.png</file>
+        <file>icons/ScrollTopHover.png</file>
+        <file>icons/ScrollTopPressed.png</file>
+    </qresource>
+    <qresource prefix="/PrevNext">
+        <file>icons/NextMonthDisabled.png</file>
+        <file>icons/PrevMonthDisabled.png</file>
+        <file>icons/NextMonth.png</file>
+        <file>icons/PrevMonth.png</file>
+    </qresource>
+    <qresource prefix="/SpinBox">
+        <file>icons/SpinBoxDown.png</file>
+        <file>icons/SpinBoxDownDisabled.png</file>
+        <file>icons/SpinBoxUp.png</file>
+        <file>icons/SpinBoxUpDisabled.png</file>
+    </qresource>
+    <qresource prefix="/RadioButton">
+        <file>icons/RadioButtonPressed.png</file>
+        <file>icons/RadioButtonHover.png</file>
+        <file>icons/RadioButton.png</file>
+    </qresource>
+    <qresource prefix="/CheckBox">
+        <file>icons/CheckBox.png</file>
+        <file>icons/CheckBoxPressed.png</file>
+    </qresource>
+    <qresource prefix="/newPrefix">
+        <file>icons/ComboBox.png</file>
+        <file>icons/ComboBoxDisabled.png</file>
+        <file>icons/TreeViewClose.png</file>
+        <file>icons/TreeViewOpen.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>win11_light.qss</file>
+    </qresource>
+</RCC>
