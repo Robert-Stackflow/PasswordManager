@@ -36,7 +36,7 @@ void LoginWidget::initWidget()
     //设置无边框
     setBtnClose(ui->closeButton);
     setTitleBar(ui->topWidget);
-    addIgnoreWidget(ui->programNameLabel);
+    addIgnoreWidget(ui->switchWidget);
     //加载qss样式
     loadQss(":qss/custom.qss");
     //设置默认头像，并设置事件过滤器

@@ -102,9 +102,9 @@ void CustomTableWidget::initWidget()
         break;
     case GROUP:
         ui->btnImport->setVisible(false);
-        ui->tableMain->setItemDelegateForColumn(4, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(4,Qt::Horizontal).toString(),this));
-        ui->tableMain->setItemDelegateForColumn(5, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(5,Qt::Horizontal).toString(),this));
-        ui->tableMain->setItemDelegateForColumn(6, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(6,Qt::Horizontal).toString(),this));
+//        ui->tableMain->setItemDelegateForColumn(4, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(4,Qt::Horizontal).toString(),this));
+//        ui->tableMain->setItemDelegateForColumn(5, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(5,Qt::Horizontal).toString(),this));
+//        ui->tableMain->setItemDelegateForColumn(6, new ComboBoxDelegate(currentMode,ui->nameLabel->text(),ui->tableMain->model()->headerData(6,Qt::Horizontal).toString(),this));
         setToolTips("刷新","导出当前分组到文件","","新建条目","查看分组信息");
         break;
     case GROUPTYPES:
